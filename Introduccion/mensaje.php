@@ -1,1 +1,1 @@
-<?php echo "mensaje de php" ?>
+<?php echo "mensaje de php"; ?>
